@@ -1,4 +1,4 @@
-# 🎓 Research Assistant GPT 🤖
+# 🎓 ResearchWriterGPT - A Research Assistant AI APP 🤖
 
 ## Welcome to the Future of Academic Research!
 
